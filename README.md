@@ -1,5 +1,5 @@
 # Curso-Nave_Do_Conhecimento
- Este curso de HTML e CSS está ainda em andamento!  
+ Aqui você encontra meus estudos que tive ao longo deste curso que foi feito durante a pandemia de 2020 e por isso o curso foi realizado 100% Digital, caso lhe interesse, você pode [Entrar no Site](https://navedoconhecimento.rio/) e verificar os cursos.
 
 Mesmo já tendo os conhecimentos sobre HTML e CSS, resolvi entrar nese curso para além de reforçar, ganhar um diploma, pois não tenho uma forma solida de provar meus conhecimentos atuais, mesmo os tendo.
 
