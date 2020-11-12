@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulários</title>
+    <style>
+        label{
+            display: block;
+            margin-bottom: 20px;
+        }
+        label label{
+            margin-bottom: 0px;
+        }
+    </style>
+</head>
+<body>
+    <form action="enviar.php" method="POST">
+        
+        <label for="nome">Nome completo:
+            <input type="text" name="nome" id="nome" maxlength="20" placeholder="Digite seu Nome">
+        </label>
+
+        <label for="email">E-mail:
+            <input type="email" name="email" id="email" placeholder="Digite seu E-mail">
+        </label>
+
+        <label for="foto">Sua Foto:
+            <input type="file" name="foto" id="foto" placeholder="Coloque sua foto">
+        </label>
+
+        <label for="idade">Sua Idade:
+            <input type="number" name="idade" id="idade" min="18" max="150" 
+            placeholder="Digite sua idade">
+        </label>
+
+        <label for="brasil">Você é brasileiro?
+            <label for="sim">Sim
+                <input type="radio" name="brasil" id="sim" value="1">
+            </label>
+            
+            <label for="nao">Não
+                <input type="radio" name="brasil" id="nao" value="0">
+            </label>
+        </label>
+
+        <label for="fruits">Quais Frutas Você Gosta?
+            <label for="maca">Maçã
+            <input type="checkbox" name="fruits" id="maca" value="maca">
+            </label>
+            
+            <label for="banana">Banana
+                <input type="checkbox" name="fruits" id="banana" value="banana">
+                </label>
+                
+            <label for="pera">Pera
+                <input type="checkbox" name="fruits" id="pera" value="pera">
+                </label>
+        </label>
+
+        <input type="hidden" name="info" value="TokenId=dw7wV0Jgh">
+
+        <label for="senha">Sua Senha:
+            <input type="password" name="senha" id="senha"  maxlength="20"
+            placeholder="Digite sua Senha">
+        </label>
+
+        <label for="mensagem">Sua Mensagem
+            <textarea name="mensagem" id="mensagem" cols="30" rows="10"></textarea>
+        </label>
+
+        <label for="nave">Sua Nave
+            <select name="nave" id="name">
+                <option value="vila alianca">Vila Aliança</option>
+                <option value="realengo">Realengo</option>
+                <option value="ali do lado">Ali do Lado</option>
+                <option value="outra">Outra</option>
+            </select>
+        </label>
+
+        <!-- <button type="submit">Enviar</button> -->
+        <input type="submit" value="Enviar">
+    </form>
+</body>
+</html>

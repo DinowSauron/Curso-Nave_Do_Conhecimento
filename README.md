@@ -8,9 +8,15 @@ Em breve o site do projeto final estará disponivel aqui!
 ---
 ## Anotações
 
-    Png Transparente no Internet Explorer 6: https://blog.danilowm.com/159/png-transparente-no-internet-explorer/
-    Movimento pelo fim do Internet Explorer 6: http://g1.globo.com/Noticias/Tecnologia/0,,MUL1482185-6174,00-SAIBA+POR+QUE+HA+UM+MOVIMENTO+PARA+ACABAR+COM+O+INTERNET+EXPLORER.html
-    
-    Icones Gratuitos: Flaticon.
-    Imagens Gratuitas: Unsplash.
-    Logos Famosas: Brands Of The World.
+
+    1140px de largura maxima...
+
+    * Png Transparente no Internet Explorer 6: https://blog.danilowm.com/159/png-transparente-no-internet-explorer/
+    * Movimento pelo fim do Internet Explorer 6: http://g1.globo.com/Noticias/Tecnologia/0,,MUL1482185-6174,00-SAIBA+POR+QUE+HA+UM+MOVIMENTO+PARA+ACABAR+COM+O+INTERNET+EXPLORER.html
+    * Cookies: https://www.techtudo.com.br/noticias/noticia/2013/09/os-pros-e-contras-de-ser-vigiado-por-cookies-de-publicidade-na-web.html  |E| https://privacytech.com.br/lgpd/as-regras-da-uniao-europeia-para-o-uso-de-cookies,321329.jhtml
+
+    * Icones Gratuitos: Flaticon.
+    * Imagens Gratuitas: Unsplash, pixabay.
+    * Logos Famosas: Brands Of The World.
+    * Inspiração de cores: ColourLovers.
+    * Organizador, Glloogle Keep

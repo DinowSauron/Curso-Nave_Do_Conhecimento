@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        body{
+            background: #ddd;
+        }
+        .header-container{
+            display: flex;
+            justify-content: space-between;
+            background: #fff;
+        }
+        .header{
+            padding: 20px;
+        }
+        .menu{
+            display: flex;
+            align-items: center;
+            margin-right: 30px;
+        }
+        #main-logo{
+            height: 100px;
+        }
+        #gov-logo{
+            height: 60px;
+        }
+        a{
+            text-decoration: none;
+            text-transform: uppercase;
+        }
+        ul{
+            position: relative;
+            list-style-type: none;
+            display: flex;
+            margin-bottom: 15px;
+            height: 60px;
+        }
+        li{
+            display: flex;
+            align-items: center;
+            height: 100%;
+            background: rgb(21, 145, 129);
+            color: #fff;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-weight: 600;
+            padding: 5px 10px;
+        }
+        li img{
+            height: 20px;
+            margin: 5px;
+        }
+        li.active{
+            color: rgb(236, 175, 62);
+        }
+        #visit{
+            background: rgb(35, 175, 156);
+        }
+        #cursos{
+            font-size: 15pt;
+            margin: 0 5px;
+            background: rgb(236, 175, 62);
+        }
+        .selected{
+            position: absolute;
+            top: 109%;
+            width: 70px;
+            height: 5px;
+            background: rgb(236, 175, 62);
+        }
+    </style>
+</head>
+<body>
+    <div class="header-container">
+        <div class="header">
+            <a href="https://navedoconhecimento.rio/">
+            <img src="./motriz.jpg" alt="" id="main-logo">
+            </a>
+        </div>
+        <div class="menu">
+            <ul>
+                <a href="#"><li>Home</li></a>
+                <a href="#"><li>Notícias</li></a>
+                <a href="#"><li>Unidades</li></a>
+                <a href="#"><li>Vídeos</li></a>
+                <a href="#"><li>Contato</li></a>
+                <a href="#"><li>Área do Usuário</li></a>
+                <a href="#"><li class="active">Cadastre-se</li></a>
+                <a href="#"><li id="visit">
+                    <img src="./calendar.svg">
+                    Agende<br>Sua Visita</li></a>
+                <a href="#"><li id="cursos">
+                    <img src="./livro.svg">
+                    Cursos</li></a>
+                <div class="selected"></div>
+            </ul>
+            <a href="http://www.rio.rj.gov.br/web/smdt">
+            <img src="./rj-logo.jpg" id="gov-logo">
+            </a>
+        </div>
+    </div>
+</body>
+</html>
