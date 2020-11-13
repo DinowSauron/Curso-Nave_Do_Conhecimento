@@ -16,7 +16,12 @@ Em breve o site do projeto final estará disponivel aqui!
     * Cookies: https://www.techtudo.com.br/noticias/noticia/2013/09/os-pros-e-contras-de-ser-vigiado-por-cookies-de-publicidade-na-web.html  |E| https://privacytech.com.br/lgpd/as-regras-da-uniao-europeia-para-o-uso-de-cookies,321329.jhtml
 
     * Icones Gratuitos: Flaticon.
-    * Imagens Gratuitas: Unsplash, pixabay.
+    * Imagens Gratuitas: Unsplash, pixabay, Freepic.
     * Logos Famosas: Brands Of The World.
     * Inspiração de cores: ColourLovers.
     * Organizador, Glloogle Keep
+
+    Recomendação:
+    -talvez gravar com a câmera invertida para quando apontar para a direita ir para a direita de quem está vendo o video, ninguem irá notar a diferença.
+
+    -
