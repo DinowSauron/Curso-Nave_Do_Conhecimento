@@ -1,0 +1,16 @@
+/* ??? ;-; ??? */
+
+.square{
+    height: 50px;
+    width: 50px;
+    padding: 50px;
+    /* margin: 50px; */
+}
+
+.sq1{
+    background: #ff0000;
+    margin: 50px;
+}
+.sq2{
+    background: #00ff00;
+}
