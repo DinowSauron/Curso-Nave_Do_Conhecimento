@@ -5,23 +5,32 @@ Mesmo já tendo os conhecimentos sobre HTML e CSS, resolvi entrar nese curso par
 
 Em breve o site do projeto final estará disponivel aqui!
 
+
+### Tecnologias utilizadas:
+* HTML5 
+* CSS3
+
 ---
 ## Anotações
 
 
-    1140px de largura maxima...
+* 1140px de largura maxima...
 
-    * Png Transparente no Internet Explorer 6: https://blog.danilowm.com/159/png-transparente-no-internet-explorer/
-    * Movimento pelo fim do Internet Explorer 6: http://g1.globo.com/Noticias/Tecnologia/0,,MUL1482185-6174,00-SAIBA+POR+QUE+HA+UM+MOVIMENTO+PARA+ACABAR+COM+O+INTERNET+EXPLORER.html
-    * Cookies: https://www.techtudo.com.br/noticias/noticia/2013/09/os-pros-e-contras-de-ser-vigiado-por-cookies-de-publicidade-na-web.html  |E| https://privacytech.com.br/lgpd/as-regras-da-uniao-europeia-para-o-uso-de-cookies,321329.jhtml
+* Png Transparente no Internet Explorer 6: https://blog.danilowm.com/159/png-transparente-no-internet-explorer/
+* Movimento pelo fim do Internet Explorer 6: http://g1.globo.com/Noticias/Tecnologia/0,,MUL1482185-6174,00-SAIBA+POR+QUE+HA+UM+MOVIMENTO+PARA+ACABAR+COM+O+INTERNET+EXPLORER.html
+* Cookies: https://www.techtudo.com.br/noticias/noticia/2013/09/os-pros-e-contras-de-ser-vigiado-por-cookies-de-publicidade-na-web.html  |E| https://privacytech.com.br/lgpd/as-regras-da-uniao-europeia-para-o-uso-de-cookies,321329.jhtml
 
-    * Icones Gratuitos: Flaticon.
-    * Imagens Gratuitas: Unsplash, pixabay, Freepic.
-    * Logos Famosas: Brands Of The World.
-    * Inspiração de cores: ColourLovers.
-    * Organizador, Glloogle Keep
+* Icones Gratuitos: Flaticon.
+* Imagens Gratuitas: Unsplash, pixabay, Freepic.
+* Logos Famosas: Brands Of The World.
+* Inspiração de cores: ColourLovers.
+* Organizador, Glloogle Keep
 
-    Recomendação:
-    -talvez gravar com a câmera invertida para quando apontar para a direita ir para a direita de quem está vendo o video, ninguem irá notar a diferença.
 
-    -
+### Recomendação(Opinião):
+    
+- Talvez gravar com a câmera invertida para quando apontar para a direita ir para a direita de quem está vendo o video, ninguem irá notar a inversão da câmera.
+
+- Utilizar o f12 do chrome para visualizar coisas, como margin, padding, display, etc, para ter uma visualização melhor dos itens.
+
+- Talvez sempre tentar passar algum desafio no final relacionado com a aula, ajuda a praticar sobre o assunto.

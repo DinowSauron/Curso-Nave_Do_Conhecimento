@@ -1,0 +1,25 @@
+
+body{
+    background: #777 url("../image/Espada\ SciFi.png") no-repeat;
+    background-size: cover;
+}
+.square{
+    height: 50px;
+    width: 50px;
+    color: #00f;
+
+    font-family: arial, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    font-style: italic;
+    font-variant: small-caps;
+
+    background-color: #00aa00;
+    border: 2px solid #f00;
+}
+
+p,
+.link{
+    width: fit-content;
+    background: aqua;
+}

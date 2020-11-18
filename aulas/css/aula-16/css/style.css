@@ -1,0 +1,25 @@
+body{
+    background: #777;
+}
+.q1{
+    background: #65c73b;
+    border: 2px solid #1e8134;
+    width: 30px;
+    height: 30px;
+    float: left;
+    /*z-index: 1; /* só funciona com posicionamento absoluto? */
+}
+.q2{
+    background: #3a6dca;
+    border: 2px solid #1e6281;
+    width: 30px;
+    height: 30px;
+    float: right;
+}
+.q3{
+    background: #cabc3a;
+    border: 2px solid #81771e;
+    width: 30px;
+    height: 30px;
+    clear: both; /* Ignora a linha atual */
+}
