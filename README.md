@@ -7,8 +7,8 @@ Em breve o site do projeto final estará disponivel aqui!
 
 
 ### Tecnologias utilizadas:
-* HTML5 
-* CSS3
+* HTML5 - vanilla.
+* CSS3 - vanilla.
 
 ---
 ## Anotações
@@ -24,7 +24,8 @@ Em breve o site do projeto final estará disponivel aqui!
 * Imagens Gratuitas: Unsplash, pixabay, Freepic.
 * Logos Famosas: Brands Of The World.
 * Inspiração de cores: ColourLovers.
-* Organizador, Glloogle Keep
+* Organizador: Glloogle Keep.
+* animações de css:  animate.style.
 
 
 ### Recomendação(Opinião):
@@ -34,3 +35,8 @@ Em breve o site do projeto final estará disponivel aqui!
 - Utilizar o f12 do chrome para visualizar coisas, como margin, padding, display, etc, para ter uma visualização melhor dos itens.
 
 - Talvez sempre tentar passar algum desafio no final relacionado com a aula, ajuda a praticar sobre o assunto.
+
+- Fazer mais aulas com a tela dividida entre editor e navegador, e talvez colocar a extensão "live server" que assim que há uma mudança no texto, o navegador atualiza, sendo necessário ativar o auto-save do editor.
+
+- Quando quer escrever muito texto para exemplos, ou outro texto sem sentido, utilizar o emmet "lorem" que basta escrever lorem no editor para dar algum texto, nam inha opinião é melhor que colocar "auwklgdaguklwdulka..."
+
