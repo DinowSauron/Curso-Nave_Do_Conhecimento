@@ -8,7 +8,8 @@ Em breve o site do projeto final estará disponivel aqui!
 
 ### Tecnologias utilizadas:
 * HTML5 - vanilla.
-* CSS3 - vanilla.
+* CSS3.
+    * Bootstrap.
 
 ---
 ## Anotações
