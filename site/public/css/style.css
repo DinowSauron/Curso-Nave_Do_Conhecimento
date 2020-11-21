@@ -1,0 +1,42 @@
+
+:root{
+    --color1: #edca11;
+    --color2: #aa0000;
+    --color3: #c9a805;
+    --color4: #910000;
+}
+
+html{
+    margin: 0;
+    padding: 0;
+
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: 400;
+    font-size: 110%;
+}
+
+*,
+*:hover{
+    transition: 300ms all;
+}
+
+header{
+    background: url("../images/bg_header.png");
+    background-size: cover;
+}
+
+img.slide{
+    width: 100%;
+}
+
+/* map */
+.bg-yellow{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+}
+.address{
+    width: 20rem;
+    height: 6rem;
+}
