@@ -6,7 +6,7 @@
     --color4: #910000;
 }
 
-html{
+body.home{
     margin: 0;
     padding: 0;
 
@@ -97,6 +97,12 @@ footer.footer{
 }
 footer.footer p{
     color: #ffffff;
+}
+
+/* pagina "A pizzaria */
+h3.title{
+    text-transform: uppercase;
+    color: var(--color2);
 }
 
 
