@@ -100,12 +100,32 @@ footer.footer p{
 }
 
 /* pagina "A pizzaria */
-h3.title{
+h3.title, 
+body.cardapio h5{
     text-transform: uppercase;
     color: var(--color2);
 }
+body.pizzaria p,
+.row p.card-text:nth-child(2){
+    text-align: justify;
+}
 
-
+/*pagina cardapio */
+.btn-go{
+    background-color: var(--color2);
+    color: #fff;
+    border-radius: 0;
+}
+.btn-go:hover{
+    background-color: var(--color1);
+    color: var(--color2);
+}
+.card {
+    border-color: var(--color1);
+}
+.card:hover {
+    border-color: var(--color2);
+}
 
 
 
