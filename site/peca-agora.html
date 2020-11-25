@@ -12,10 +12,10 @@
         integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
     <link rel="stylesheet" href="./public/css/style.css">
 
-    <title>A Pizzaria | Pizzaria da Nave</title>
+    <title>Peça Agora | Pizzaria da Nave</title>
 </head>
 
-<body class="pizzaria">
+<body class="peca-agora">
 
     <header>
         <div class="container">
@@ -72,7 +72,7 @@
                                 <li class="nav-item ">
                                     <a class="nav-link" href="./index.html">Home</a>
                                 </li>
-                                <li class="nav-item active">
+                                <li class="nav-item ">
                                     <a class="nav-link" href="./pizzaria.html">A Pizzaria</a>
                                 </li>
                                 <li class="nav-item">
@@ -93,35 +93,81 @@
         <div class="container bg-white bg-shadow p-4">
             <div class="row ">
                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
-                    <h3 class="title">A Pizzaria</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit nihil repudiandae, illo cumque
-                        corporis dicta inventore Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur
-                        voluptatibus, commodi totam molestias adipisci odit alias porro mollitia tenetur at numquam hic
-                        soluta sapiente doloribus perspiciatis exercitationem animi eligendi dolorem! eligendi dolor
-                        iusto dignissimos nobis! Illo nemo eaque pariatur
-                        quaerat non. Numquam, officiis quae!</p>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit nihil repudiandae, illo cumque
-                        corporis dicta inventore eligendi dolor iusto dignissimos nobis! Illo nemo eaque pariatur
-                        quaerat non. Numquam, Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus quaerat
-                        sint iste aut harum soluta magni necessitatibus ipsa labore, saepe voluptatum similique fugit
-                        iure at minima, ratione ex officiis laboriosam! Lorem ipsum dolor sit amet, consectetur
-                        adipisicing elit. Eaque cumque molestias fuga officia quae iusto, et libero? Quaerat cupiditate
-                        vel ullam, inventore animi nulla eaque, ad corporis, saepe quos adipisci?<br> Lorem ipsum, dolor
-                        sit amet consectetur adipisicing elit. Quia aut dolores officia perferendis quasi recusandae ut,
-                        nisi blanditiis eos repellendus. Ipsam saepe cupiditate temporibus distinctio! Reprehenderit
-                        eius omnis quidem quam. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam ipsum
-                        maxime deleniti cumque suscipit itaque dolor perspiciatis temporibus, sapiente eveniet tempore
-                        laborum dolores quidem perferendis illo ullam nulla repellendus iste. officiis quae!</p>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit nihil repudiandae, illo cumque
-                        corporis dicta inventore eligendi dolor iusto Lorem ipsum dolor sit amet consectetur adipisicing
-                        elit. Autem nisi exercitationem repudiandae itaque dicta. Nulla et atque facere quisquam
-                        similique quam neque sint, ad repudiandae quibusdam possimus delectus impedit. Harum!
-                        dignissimos nobis! Illo nemo eaque pariatur
-                        quaerat non. Numquam, officiis quae!</p>
-                </div>
-            </div>
+                    <h3 class="title">Faça seu pedido</h3>
 
-        </div>
+                    <div class="row">
+                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
+                            <form action="">
+                                <div class="form-group">
+                                    <label for="nome">Nome</label>
+                                    <input type="text" name="nome" id="nome" placeholder="Digite seu nome"
+                                        class="form-control">
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="telefone">Telefone</label>
+                                    <input type="tel" name="telefone" id="telefone" placeholder="ddd-xxxx-xxxx"
+                                        pattern="[0-9]{3}-[0-9]{4}-[0-9]{4}" class="form-control">
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="email">E-mail</label>
+                                    <input type="email" name="email" id="email" placeholder="Digite seu E-Mail"
+                                        class="form-control">
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="cep">CEP</label>
+                                    <input type="text" name="cep" id="cep" placeholder="Digite o seu cep"
+                                        class="form-control">
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="rua">Rua</label>
+                                    <input type="text" name="rua" id="rua" placeholder="Digite sua rua"
+                                        class="form-control">
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="numero">Número da residência</label>
+                                    <input type="text" name="numero" id="numero"
+                                        placeholder="Digite o Número de sua residência" class="form-control">
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="complemento">Complemento do Endereço</label>
+                                    <input type="text" name="complemento" id="complemento"
+                                        placeholder="Digite o complemento do endereço" class="form-control">
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="referencia">Ponto de Referência</label>
+                                    <input type="text" name="referencia" id="referencia"
+                                        placeholder="Digite a referencia proxíma ao endereço" class="form-control">
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="bairro">Bairro</label>
+                                    <input type="text" name="bairro" id="bairro"
+                                        placeholder="Digite o bairro da sua residência" class="form-control">
+                                </div>
+
+
+                                <div class="form-group">
+                                    <label for="pedido">Seu Pedido</label>
+                                    <textarea type="text" name="pedido" id="pedido" placeholder="Digite o seu pedido"
+                                        rows="6" class="form-control"></textarea>
+                                </div>
+
+                                <div class="form-group">
+                                    <input type="submit" value="Enviar" class="btn btn-block btn-go">
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
     </section>
 
     <footer class="footer">

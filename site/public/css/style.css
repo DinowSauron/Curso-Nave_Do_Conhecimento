@@ -99,6 +99,7 @@ footer.footer p{
     color: #ffffff;
 }
 
+
 /* pagina "A pizzaria */
 h3.title, 
 body.cardapio h5{
@@ -109,6 +110,7 @@ body.pizzaria p,
 .row p.card-text:nth-child(2){
     text-align: justify;
 }
+
 
 /*pagina cardapio */
 .btn-go{
@@ -127,6 +129,18 @@ body.pizzaria p,
     border-color: var(--color2);
 }
 
+/* contato */
+.form-control{
+    border: 1px solid var(--color2);
+    border-radius: 0px;
+    outline: 0;
+}
+.form-control:focus,
+.form-control:hover{
+    border-color: var(--color1);
+    box-shadow: 0 0 0 0 rgba(0,0,0,0);
+}
+
 
 
 @media (min-width: 576px) {
@@ -138,11 +152,18 @@ body.pizzaria p,
     .bg-yellow{
         margin-top: 0;
     }
+    img.logo{
+        width: 10rem;
+    }
 }
 
 
 @media (min-width: 768px) {
-	/* celular / tablet */
+    /* celular / tablet */
+    
+    img.logo{
+        width: 10rem;
+    }
 }
 
 @media (min-width: 992px) {
