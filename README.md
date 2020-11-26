@@ -3,8 +3,8 @@
 
 Mesmo já tendo os conhecimentos sobre HTML e CSS, resolvi entrar nese curso para além de reforçar, ganhar um diploma, pois não tenho uma forma solida de provar meus conhecimentos atuais, mesmo os tendo.
 
-Em breve o site do projeto final estará disponivel aqui!
-
+Entre no site agorá e veja por vocÊ mesmo ele funcionando!
+[Clique Aqui!](https://dinowsauron.github.io/Curso-Nave_Do_Conhecimento/)
 
 ### Tecnologias utilizadas:
 * HTML5 - vanilla.
@@ -12,7 +12,7 @@ Em breve o site do projeto final estará disponivel aqui!
     * Bootstrap.
 
 ---
-## Anotações
+## Anotações Do Curso:
 
 
 * 1140px de largura maxima...
@@ -29,7 +29,7 @@ Em breve o site do projeto final estará disponivel aqui!
 * animações de css:  animate.style.
 
 
-### Recomendação(Opinião):
+### Recomendação do Curso (Opinião):
     
 - Talvez gravar com a câmera invertida para quando apontar para a direita ir para a direita de quem está vendo o video, ninguem irá notar a inversão da câmera.
 
