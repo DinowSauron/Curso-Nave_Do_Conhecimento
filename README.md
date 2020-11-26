@@ -3,7 +3,7 @@
 
 Mesmo já tendo os conhecimentos sobre HTML e CSS, resolvi entrar nese curso para além de reforçar, ganhar um diploma, pois não tenho uma forma solida de provar meus conhecimentos atuais, mesmo os tendo.
 
-Entre no site agorá e veja por vocÊ mesmo ele funcionando!
+Entre no site agorá e veja por você mesmo ele funcionando!
 [Clique Aqui!](https://dinowsauron.github.io/Curso-Nave_Do_Conhecimento/)
 
 ### Tecnologias utilizadas:
@@ -17,9 +17,9 @@ Entre no site agorá e veja por vocÊ mesmo ele funcionando!
 
 * 1140px de largura maxima...
 
-* Png Transparente no Internet Explorer 6: https://blog.danilowm.com/159/png-transparente-no-internet-explorer/
-* Movimento pelo fim do Internet Explorer 6: http://g1.globo.com/Noticias/Tecnologia/0,,MUL1482185-6174,00-SAIBA+POR+QUE+HA+UM+MOVIMENTO+PARA+ACABAR+COM+O+INTERNET+EXPLORER.html
-* Cookies: https://www.techtudo.com.br/noticias/noticia/2013/09/os-pros-e-contras-de-ser-vigiado-por-cookies-de-publicidade-na-web.html  |E| https://privacytech.com.br/lgpd/as-regras-da-uniao-europeia-para-o-uso-de-cookies,321329.jhtml
+* Png Transparente no Internet Explorer 6:[Link1](https://blog.danilowm.com/159/png-transparente-no-internet-explorer/)
+* Movimento pelo fim do Internet Explorer 6: [Link1](http://g1.globo.com/Noticias/Tecnologia/0,,MUL1482185-6174,00-SAIBA+POR+QUE+HA+UM+MOVIMENTO+PARA+ACABAR+COM+O+INTERNET+EXPLORER.html)
+* Cookies: [Link1](https://www.techtudo.com.br/noticias/noticia/2013/09/os-pros-e-contras-de-ser-vigiado-por-cookies-de-publicidade-na-web.html), [Link2](https://privacytech.com.br/lgpd/as-regras-da-uniao-europeia-para-o-uso-de-cookies,321329.jhtml)
 
 * Icones Gratuitos: Flaticon.
 * Imagens Gratuitas: Unsplash, pixabay, Freepic.
