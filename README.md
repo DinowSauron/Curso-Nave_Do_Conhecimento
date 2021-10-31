@@ -1,10 +1,14 @@
 # Curso-Nave_Do_Conhecimento
  Aqui você encontra meus estudos que tive ao longo deste curso que foi feito durante a pandemia de 2020 e por isso o curso foi realizado 100% Digital, caso lhe interesse, você pode [Entrar no Site](https://navedoconhecimento.rio/) e verificar os cursos.
-
-Mesmo já tendo os conhecimentos sobre HTML e CSS, resolvi entrar nese curso para além de reforçar, ganhar um diploma, pois não tenho uma forma solida de provar meus conhecimentos atuais, mesmo os tendo.
+ 
 
 Entre no site agorá e veja por você mesmo ele funcionando!
 [Clique Aqui!](https://dinowsauron.github.io/Curso-Nave_Do_Conhecimento/)
+
+
+
+
+
 
 ### Tecnologias utilizadas:
 * HTML5 - vanilla.
@@ -14,6 +18,7 @@ Entre no site agorá e veja por você mesmo ele funcionando!
 ---
 ## Anotações Do Curso:
 
+Obs: Paginas constantementes fora do ar, serviço de autenticação de certificados fora do ar, qr code fora do ar, horrivel.
 
 * 1140px de largura maxima...
 
@@ -39,5 +44,5 @@ Entre no site agorá e veja por você mesmo ele funcionando!
 
 - Fazer mais aulas com a tela dividida entre editor e navegador, e talvez colocar a extensão "live server" que assim que há uma mudança no texto, o navegador atualiza, sendo necessário ativar o auto-save do editor.
 
-- Quando quer escrever muito texto para exemplos, ou outro texto sem sentido, utilizar o emmet "lorem" que basta escrever lorem no editor para dar algum texto, nam inha opinião é melhor que colocar "auwklgdaguklwdulka..."
+- Quando quer escrever muito texto para exemplos, ou outro texto sem sentido, utilizar o emmet "lorem" que basta escrever lorem no editor para dar algum texto, na minha opinião é melhor do que colocar "auwklgdaguklwdulka..."
 
